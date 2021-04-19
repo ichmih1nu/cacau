@@ -1,0 +1,1 @@
+print("aauuauauau sou cagona, mas sou fofaaaa, me chamo luna :D")
